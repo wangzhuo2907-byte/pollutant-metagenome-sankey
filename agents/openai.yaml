@@ -1,0 +1,4 @@
+interface:
+  display_name: "污染物-宏基因桑吉图skill"
+  short_description: "将污染物相关细菌与CAZy家族、EC按基因ID连接，生成分层桑基图"
+  default_prompt: "使用 $pollutant-metagenome-sankey，将污染物相关的细菌科属种与 CAZy level2、EC 联合注释，并绘制桑基图。"
